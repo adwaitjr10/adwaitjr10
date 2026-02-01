@@ -14,6 +14,12 @@
 
 ---
 
+<div align="center">
+  <img src="https://github.com/adwaitjr10/adwaitjr10/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
 ### 🛠️ Tech Stack
 
 <div align="center">
