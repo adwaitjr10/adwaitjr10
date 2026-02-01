@@ -1,6 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20there,%20I'm%20AdwaitJr!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Developer%20|%20Open%20Source%20Enthusiast%20|%20AI%20Explorer&descAlignY=51&descAlign=62" width="100%" alt="Header" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi%20there,%20I'm%20AdwaitJr!&fontSize=60&animation=fadeIn&fontAlignY=40&desc=Developer%20|%20Open%20Source%20Enthusiast%20|%20AI%20Explorer&descAlignY=60"
+    alt="Header"
+    style="max-width: 100%;"
+  />
 </div>
+
 
 <div align="center">
 
