@@ -26,6 +26,15 @@
   <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,git,github,vscode&perline=10" />
 </div>
 
+---
+
+### 📄 Research & Publications
+
+- **Detectable Post-Poll Integrity for Offline Electronic Voting Systems**  
+  *Adwait Jr.*, et al.  
+  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18261216.svg)](https://doi.org/10.5281/zenodo.18261216)
+
+
 <div align="center">
 
   ### 📫 Connect with Me
