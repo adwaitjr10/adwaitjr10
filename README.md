@@ -1,16 +1,33 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20there,%20I'm%20AdwaitJr!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Developer%20|%20Open%20Source%20Enthusiast%20|%20AI%20Explorer&descAlignY=51&descAlign=62" width="100%" alt="Header" />
+</div>
 
-<!--
-**adwaitjr10/adwaitjr10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+  ### 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  I'm a developer passionate about building tools that empower users. I love exploring **AI**, **Web Development**, and **Open Source**.
+  
+  Currently identifying as a **Javascript/TypeScript** wizard 🧙‍♂️ with a side of **Python** 🐍.
+
+</div>
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,git,github,vscode&perline=10" />
+</div>
+
+<div align="center">
+
+  ### 📫 Connect with Me
+  
+  <a href="https://github.com/adwaitjr10">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <!-- Add your LinkedIn or Twitter below -->
+  <a href="https://www.linkedin.com/in/adwaitjr10/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+</div>
