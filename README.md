@@ -31,7 +31,7 @@
 ### 📄 Research & Publications
 
 - **Detectable Post-Poll Integrity for Offline Electronic Voting Systems**  
-  *Adwait Jr.*, et al.  
+  *Adwait Jayant Rane.*, et al.  
   [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18261216.svg)](https://doi.org/10.5281/zenodo.18261216)
 
 
